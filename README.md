@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Matthew-Makepeace
-- 👀 I’m interested in Video Games and Web Development.
-- 🌱 I’m currently learning Web Development and Coding.
+- 👀 I’m interested in UX Design, Design Styles, Video Games and Websites.
 - 📫 How to reach me Email: Matthewmakepeace32@gmail.com.
 
 <!---
