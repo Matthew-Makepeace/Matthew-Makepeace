@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Matthew-Makepeace
-- 👀 I’m interested in UX Design, Design Styles, Video Games and Websites.
+- 👀 I’m interested in UI/UX Design, Design Styles, Video Games and Websites.
 - 📫 How to reach me Email: Matthewmakepeace32@gmail.com.
 
 <!---
